@@ -1,7 +1,7 @@
 ### Hello There 👋
 
-👋 Rqfi is here
-Nothing much what i want to introduce 🆗
+👋 Rqfi is here.
+Nothing much what i want to introduce 🆗.
 I always wanted to say this when writing my bio 🙃, I don't know why 🤗
 
 ===> Why do i even exist? <===
