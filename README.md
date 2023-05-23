@@ -1,8 +1,5 @@
 ### Hello There 👋
 
-<!--
-**Rqfi/Rqfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👋 Rqfi is here
 Nothing much what i want to introduce 🆗
 I always wanted to say this when writing my bio 🙃, I don't know why 🤗
@@ -20,4 +17,3 @@ So yeah! Welcome 😊
 [![My Skills](https://skills.thijs.gg/icons?i=kotlin,html,php,css,figma)](https://skills.thijs.gg)
 
 <=== Thanks for coming! ===>
--->
