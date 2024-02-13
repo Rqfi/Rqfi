@@ -7,8 +7,7 @@ I always wanted to say this when writing my bio 🙃, I don't know why 🤗
 ===> Why do i even exist? <===
 
 - 🙂 My name is Rafi Kurniawan
-- ✌ I'm 17 years old
-- 📕 I'm currently student at Telkom Malang Vocational High School
+- ✌ I'm 18 years old
 - 🌏 I live in East Java, Indonesia
 - 💻 I'm currently studying Android and web development
 - especially Kotlin for now 🫡
